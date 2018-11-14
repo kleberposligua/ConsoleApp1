@@ -18,5 +18,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hola KLEBER");
         }
+        public static void Saludos2()
+        {
+            Console.WriteLine("SEGUNDO SALUDO Hola KLEBER");
+        }
     }
 }
